@@ -10,7 +10,7 @@ I used PXD009449 dataset in my MS Thesis (https://github.com/shahrukh27/MS-Thesi
 
 Following table details the MS/MS counts before and after data cleanup:
 
-![alt text](https://github.com/shahrukh27/PXD009449/blob/main/msms_counts.PNG)
+![alt text](https://github.com/shahrukh27/PXD009449/blob/main/msms_counts.png)
 
 ## Publication
 
