@@ -6,7 +6,7 @@ PXD009449 dataset was part of study punlished in 2018 titled: Systematic charact
 
 I used PXD009449 dataset in my MS Thesis (https://github.com/shahrukh27/MS-Thesis.git). Following steps were followed in data pre-processing. 
 
-![alt text](https://github.com/shahrukh27/PXD009449/blob/main/data_cleanup.PNG)
+![alt text](https://github.com/shahrukh27/PXD009449/blob/main/data_cleanup.png)
 
 Following table details the MS/MS counts before and after data cleanup:
 
