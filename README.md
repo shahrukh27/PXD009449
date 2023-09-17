@@ -4,7 +4,7 @@ Data source: https://www.ebi.ac.uk/pride/archive/projects/PXD009449
 
 PXD009449 dataset was part of study punlished in 2018 titled: Systematic characterization of 21 post-translational modification using synthetic peptides. It was based on the synthesis of ~5000 synthetic peptides with 21 different post-translational modifications (PTMs).
 
-I used PXD009449 dataset in my MS Thesis (https://github.com/shahrukh27/MS-Thesis.git). Following steps were followed in data pre-processing. 
+I used PXD009449 dataset in my MS Thesis (https://github.com/shahrukh27/MS-Thesis.git). Following steps were done in data pre-processing: 
 
 ![alt text](https://github.com/shahrukh27/PXD009449/blob/main/data_cleanup.png)
 
