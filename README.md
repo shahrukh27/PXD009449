@@ -16,12 +16,12 @@ Following table details the MS/MS counts before and after data cleanup:
 
 msms_info.csv file contains the relevant information of the filtered (final) spectrum. It has following columns:
 
-Markup : - Scan: Scan number in the MS/MS run
-         - Fragmentation: fragmentation method used in the respective MS/MS run 
-         - PTM: respective PTM on a peptide 
-         - Mapped_Scan: Assigned scan number after filtering
-         - Peptide: Precusrsor peptide of MS/MS spectra
-         - PTM_Loc: Amino Acid number in the peptide seqeunce with the respective PTM
+- Scan: Scan number in the MS/MS run
+- Fragmentation: fragmentation method used in the respective MS/MS run 
+- PTM: respective PTM on a peptide 
+- Mapped_Scan: Assigned scan number after filtering
+- Peptide: Precusrsor peptide of MS/MS spectra
+- PTM_Loc: Amino Acid number in the peptide seqeunce with the respective PTM
           
 Python codes will be uploaded in a few weeks.
 
