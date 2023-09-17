@@ -1,5 +1,7 @@
 # PXD009449
 
+![alt text](https://github.com/shahrukh27/PXD009449/blob/main/data_preprocessing.PNG?raw=true)
+
 ## Publication
 
 
