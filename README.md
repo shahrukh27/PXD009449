@@ -38,7 +38,7 @@ All the peptides present in the PXD009449 dataset were passed through a series o
 
 * First step was to ensure that all selected synthetic peptides were present in the target protein database (UniProtKB). Human protein sequences were downloaded from UniProtKB database (release # 2022_05, Accession ID: UP000005640) on Dec 19th, 2022 from https://www.uniprot.org/proteomes/UP000005640. Any peptide not found in target database was discarded.
 * Second step was to remove peptides without target amino acid (Y, K, R, P).
-* Third step was to remove peptides without MS/MS spectra mapping infomration in PXD009449 dataset's supplemetary file (137237_1_supp_136394_p8kmm9.csv).
+* Third step was to remove peptides without MS/MS spectra mapping infomration in PXD009449 dataset's supplemetary file (https://github.com/shahrukh27/PXD009449/blob/main/137237_1_supp_136394_p8kmm9.csv).
 
 These filtering steps reduced the numbers of peptides from ~5000 to 4090 peptides. In the PXD009449 dataset (CID and HCD, survey run), all MS/MS spectra with missing peptide mapping or ion information were removed. Spectrum against demethylation post-translational modification were removed due to data issues. 
 
