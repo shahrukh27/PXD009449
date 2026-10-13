@@ -2,7 +2,7 @@
 
 Data source: https://www.ebi.ac.uk/pride/archive/projects/PXD009449 
 
-I used PXD009449 dataset in my MS Thesis (https://github.com/shahrukh27/MS-Thesis.git, to be updated soon). Following steps were done in data pre-processing: 
+I used PXD009449 dataset in my MS Thesis (https://github.com/shahrukh27/MS-Thesis.git). Following steps were done in data pre-processing: 
 
 ![alt text](https://github.com/shahrukh27/PXD009449/blob/main/data_cleanup.png)
 
@@ -22,8 +22,6 @@ msms_info.csv file contains the relevant information of the filtered (final) spe
 - Mapped_Scan: Assigned scan number after filtering
 - Peptide: Precusrsor peptide of MS/MS spectra
 - PTM_Loc: Amino Acid number in the peptide seqeunce with the respective PTM
-          
-Python codes will be uploaded in a few weeks.
 
 ## Publication
 
