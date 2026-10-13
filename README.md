@@ -8,28 +8,29 @@ I used PXD009449 dataset in my MS Thesis (https://github.com/shahrukh27/MS-Thesi
 
 PXD009449 MS/MS dataset was downloaded from the PRoteomics IDEntifications Database (PRIDE). This dataset was published as part of the study done by Zolg et.al. in 2018. It consisted of MS/MS spectrum of ~5000 synthetic peptides carrying 21 different post-translational modifications (PTMs) and their respective unmodified forms. The 21 PTMs performed on 4 target amino acids were as follows: 
 
-|Amino Acid|Modification|
-|Lysine|Acetylation|
-|Lysine|Biotinylation|
-|Lysine|Butyrylation|
-|Lysine|Crotonylation|
-|Lysine|Dimethylation|
-|Lysine|Formylation|
-|Lysine|Glutarylation|
-|Lysine|GlyGlycylation|
-|Lysine|Hydroxyisobutylation|
-|Lysine|Malonylation|
-|Lysine|Methylation|
-|Lysine|Propionylation|
-|Lysine|Succinylation|
-|Lysine|Trimetylation|
-|Arginine|Citrullination|
-|Arginine|Dimethylation_asym|
-|Arginine|Dimethylation_symm|
-|Arginine|Methylation|
-|Proline|Hydroxyproline|
-|Tyrosine|Nitrotyrosine|
-|Tyrosine|Phosphorylation|
+| Amino Acid | Modification |
+| :---: | :----: |
+| Lysine | Acetylation |
+| Lysine | Biotinylation |
+| Lysine | Butyrylation |
+| Lysine | Crotonylation |
+| Lysine | Dimethylation |
+| Lysine | Formylation |
+| Lysine | Glutarylation |
+| Lysine | GlyGlycylation |
+| Lysine | Hydroxyisobutylation |
+| Lysine | Malonylation |
+| Lysine | Methylation |
+| Lysine | Propionylation |
+| Lysine | Succinylation |
+| Lysine | Trimetylation |
+| Arginine | Citrullination |
+| Arginine | Dimethylation_asym |
+| Arginine | Dimethylation_symm |
+| Arginine | Methylation |
+| Proline | Hydroxyproline |
+| Tyrosine | Nitrotyrosine |
+| Tyrosine | Phosphorylation |
 
 MS/MS spectra were produced using Orbitrap Fusion ETD Mass Spectrometer. In this study, ~1.2 million MS/MS spectra (survey_R1) of Collision-induced dissociation (CID) and higher energy collisional dissociation (HCD) fragmentation methods were initially selected.
 
