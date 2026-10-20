@@ -1,10 +1,12 @@
-# PXD009449
+<div align="center">
 
+# PXD009449
 ### A processed MS/MS dataset for modified peptide evaluation
 
 [![Source PRIDE](https://img.shields.io/badge/Source-PRIDE-3876BB)](https://www.ebi.ac.uk/pride/archive/projects/PXD009449)
 [![Related MS thesis](https://img.shields.io/badge/Related-MS_thesis-8062AB)](https://github.com/shahrukh27/MS-Thesis)
 [![Pipeline](https://img.shields.io/badge/Pipeline-Data_Cleanup-blue)](#data) 
+</div>
 
 PXD009449 dataset was used in my [MS Thesis](https://github.com/shahrukh27/MS-Thesis.git). This dataset was used for p-value estimation of modified peptides using Generalized Pareto Distribution.  
 
