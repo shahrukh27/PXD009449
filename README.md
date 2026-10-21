@@ -70,7 +70,7 @@ Following table details the MS/MS counts before and after data cleanup:
 | `Data/msms_info.csv` | Main processed-spectrum metadata index |
 | `Data/137237_1_supp_136394_p8kmm9.csv` | Supplementary peptide information |
 | `Data/msms_spectrums/` | Grouped spectrum archives and the phosphorylation download pointer |
-| `assets/` | New figures, animations, and static alternatives |
+| `assets/` | Figures & Pipelines |
 
 ## :open_book: Publication
 
